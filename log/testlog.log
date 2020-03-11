@@ -1,0 +1,211 @@
+2020-03-02 20:28:04,861 - eBanking -INFO - URL is launched
+2020-03-02 20:28:05,205 - eBanking -INFO - username entered
+2020-03-02 20:28:05,417 - eBanking -INFO - password entered
+2020-03-02 20:28:15,695 - eBanking -INFO - login test passed
+2020-03-02 20:46:24,804 - eBanking -INFO - URL is launched
+2020-03-02 20:46:25,053 - eBanking -INFO - username entered
+2020-03-02 20:46:25,194 - eBanking -INFO - password entered
+2020-03-02 20:46:29,239 - eBanking -INFO - login passed
+2020-03-02 20:46:31,139 - eBanking -INFO - URL is launched
+2020-03-02 20:46:31,275 - eBanking -INFO - username entered
+2020-03-02 20:46:31,399 - eBanking -INFO - password entered
+2020-03-02 20:46:35,229 - eBanking -INFO - login failed
+2020-03-02 20:46:38,334 - eBanking -INFO - URL is launched
+2020-03-02 20:46:38,505 - eBanking -INFO - username entered
+2020-03-02 20:46:38,638 - eBanking -INFO - password entered
+2020-03-02 20:46:42,331 - eBanking -INFO - login passed
+2020-03-02 20:46:46,816 - eBanking -INFO - URL is launched
+2020-03-02 20:46:46,980 - eBanking -INFO - username entered
+2020-03-02 20:46:47,108 - eBanking -INFO - password entered
+2020-03-02 20:46:50,654 - eBanking -INFO - login failed
+2020-03-02 20:46:52,259 - eBanking -INFO - URL is launched
+2020-03-02 20:46:52,425 - eBanking -INFO - username entered
+2020-03-02 20:46:52,543 - eBanking -INFO - password entered
+2020-03-02 20:46:57,790 - eBanking -INFO - login passed
+2020-03-02 20:47:01,544 - eBanking -INFO - URL is launched
+2020-03-02 20:47:01,735 - eBanking -INFO - username entered
+2020-03-02 20:47:01,828 - eBanking -INFO - password entered
+2020-03-02 20:47:07,085 - eBanking -INFO - login failed
+2020-03-02 20:47:08,801 - eBanking -INFO - URL is launched
+2020-03-02 20:47:08,994 - eBanking -INFO - username entered
+2020-03-02 20:47:09,136 - eBanking -INFO - password entered
+2020-03-02 20:47:12,989 - eBanking -INFO - login passed
+2020-03-02 20:49:26,217 - eBanking -INFO - URL is launched
+2020-03-02 20:49:26,496 - eBanking -INFO - username entered
+2020-03-02 20:49:26,649 - eBanking -INFO - password entered
+2020-03-02 20:49:39,405 - eBanking -INFO - login passed
+2020-03-02 20:49:44,334 - eBanking -INFO - URL is launched
+2020-03-02 20:49:44,530 - eBanking -INFO - username entered
+2020-03-02 20:49:44,689 - eBanking -INFO - password entered
+2020-03-02 20:49:51,573 - eBanking -INFO - login failed
+2020-03-02 20:49:53,924 - eBanking -INFO - URL is launched
+2020-03-02 20:49:54,123 - eBanking -INFO - username entered
+2020-03-02 20:49:54,349 - eBanking -INFO - password entered
+2020-03-02 20:50:05,014 - eBanking -INFO - login passed
+2020-03-02 20:50:09,926 - eBanking -INFO - URL is launched
+2020-03-02 20:50:10,108 - eBanking -INFO - username entered
+2020-03-02 20:50:10,208 - eBanking -INFO - password entered
+2020-03-02 20:50:17,359 - eBanking -INFO - URL is launched
+2020-03-02 20:50:17,534 - eBanking -INFO - username entered
+2020-03-02 20:50:17,638 - eBanking -INFO - password entered
+2020-03-02 20:50:28,637 - eBanking -INFO - login passed
+2020-03-02 20:50:32,986 - eBanking -INFO - URL is launched
+2020-03-02 20:50:33,170 - eBanking -INFO - username entered
+2020-03-02 20:50:33,335 - eBanking -INFO - password entered
+2020-03-02 20:50:40,626 - eBanking -INFO - login failed
+2020-03-02 20:51:09,924 - eBanking -INFO - URL is launched
+2020-03-02 20:51:10,154 - eBanking -INFO - username entered
+2020-03-02 20:51:10,297 - eBanking -INFO - password entered
+2020-03-02 23:11:25,655 - eBanking -INFO - URL is launched
+2020-03-02 23:11:25,902 - eBanking -INFO - username entered
+2020-03-02 23:11:26,052 - eBanking -INFO - password entered
+2020-03-03 19:13:23,534 - eBanking -INFO - URL is launched
+2020-03-03 19:13:23,784 - eBanking -INFO - username entered
+2020-03-03 19:13:23,931 - eBanking -INFO - password entered
+2020-03-03 20:09:07,299 - eBanking -INFO - URL is launched
+2020-03-03 20:09:07,667 - eBanking -INFO - username entered
+2020-03-03 20:09:07,855 - eBanking -INFO - password entered
+2020-03-03 20:25:54,114 - eBanking -INFO - URL is launched
+2020-03-03 20:25:54,304 - eBanking -INFO - username entered
+2020-03-03 20:25:54,453 - eBanking -INFO - password entered
+2020-03-03 20:27:51,776 - eBanking -INFO - URL is launched
+2020-03-03 20:27:52,000 - eBanking -INFO - username entered
+2020-03-03 20:27:52,174 - eBanking -INFO - password entered
+2020-03-03 20:36:22,245 - eBanking -INFO - URL is launched
+2020-03-03 20:36:22,457 - eBanking -INFO - username entered
+2020-03-03 20:36:22,786 - eBanking -INFO - password entered
+2020-03-03 20:36:29,933 - eBanking -INFO - customer creation section.....
+2020-03-03 20:43:07,461 - eBanking -INFO - URL is launched
+2020-03-03 20:43:07,850 - eBanking -INFO - username entered
+2020-03-03 20:43:08,198 - eBanking -INFO - password entered
+2020-03-03 20:43:15,779 - eBanking -INFO - customer creation section.....
+2020-03-03 20:47:20,001 - eBanking -INFO - URL is launched
+2020-03-03 20:47:20,292 - eBanking -INFO - username entered
+2020-03-03 20:47:20,494 - eBanking -INFO - password entered
+2020-03-03 20:47:29,327 - eBanking -INFO - customer creation section.....
+2020-03-03 20:47:32,252 - eBanking -INFO - clicked on add new customer submit button
+2020-03-03 20:50:08,886 - eBanking -INFO - URL is launched
+2020-03-03 20:50:09,195 - eBanking -INFO - username entered
+2020-03-03 20:50:09,568 - eBanking -INFO - password entered
+2020-03-03 20:50:18,274 - eBanking -INFO - customer creation section.....
+2020-03-03 20:50:22,492 - eBanking -INFO - clicked on add new customer submit button
+2020-03-03 21:03:09,443 - eBanking -INFO - URL is launched
+2020-03-03 21:03:09,645 - eBanking -INFO - username entered
+2020-03-03 21:03:09,791 - eBanking -INFO - password entered
+2020-03-03 21:03:17,022 - eBanking -INFO - customer creation section.....
+2020-03-03 21:03:20,565 - eBanking -INFO - clicked on add new customer submit button
+2020-03-03 21:04:45,353 - eBanking -INFO - URL is launched
+2020-03-03 21:04:45,599 - eBanking -INFO - username entered
+2020-03-03 21:04:45,966 - eBanking -INFO - password entered
+2020-03-03 21:04:53,243 - eBanking -INFO - customer creation section.....
+2020-03-03 21:04:58,924 - eBanking -INFO - clicked on add new customer submit button
+2020-03-03 21:05:03,953 - eBanking -INFO - customer cretated successfully
+2020-03-03 21:06:08,961 - eBanking -INFO - URL is launched
+2020-03-03 21:06:09,335 - eBanking -INFO - username entered
+2020-03-03 21:06:09,699 - eBanking -INFO - password entered
+2020-03-03 21:06:18,591 - eBanking -INFO - customer creation section.....
+2020-03-03 21:06:24,628 - eBanking -INFO - clicked on add new customer submit button
+2020-03-04 19:16:35,977 - eBanking -INFO - URL is launched
+2020-03-04 19:16:36,281 - eBanking -INFO - username entered
+2020-03-04 19:16:36,464 - eBanking -INFO - password entered
+2020-03-04 19:18:03,516 - eBanking -INFO - URL is launched
+2020-03-04 19:18:03,819 - eBanking -INFO - username entered
+2020-03-04 19:18:04,053 - eBanking -INFO - password entered
+2020-03-04 19:19:34,591 - eBanking -INFO - login passed
+2020-03-04 19:20:58,119 - eBanking -INFO - URL is launched
+2020-03-04 19:20:58,298 - eBanking -INFO - username entered
+2020-03-04 19:20:58,452 - eBanking -INFO - password entered
+2020-03-04 19:21:43,173 - eBanking -INFO - login failed
+2020-03-04 19:22:24,351 - eBanking -INFO - URL is launched
+2020-03-04 19:22:24,545 - eBanking -INFO - username entered
+2020-03-04 19:22:24,731 - eBanking -INFO - password entered
+2020-03-04 19:24:38,746 - eBanking -INFO - login passed
+2020-03-04 19:26:45,092 - eBanking -INFO - URL is launched
+2020-03-04 19:26:45,313 - eBanking -INFO - username entered
+2020-03-04 19:26:45,438 - eBanking -INFO - password entered
+2020-03-04 19:28:03,237 - eBanking -INFO - URL is launched
+2020-03-04 19:28:03,394 - eBanking -INFO - username entered
+2020-03-04 19:28:03,525 - eBanking -INFO - password entered
+2020-03-04 19:29:27,859 - eBanking -INFO - customer creation section.....
+2020-03-04 19:29:30,465 - eBanking -INFO - clicked on add new customer submit button
+2020-03-05 19:15:43,375 - eBanking -INFO - URL is launched
+2020-03-05 19:15:43,849 - eBanking -INFO - username entered
+2020-03-05 19:15:44,060 - eBanking -INFO - password entered
+2020-03-05 19:16:05,795 - eBanking -INFO - URL is launched
+2020-03-05 19:16:06,076 - eBanking -INFO - username entered
+2020-03-05 19:16:06,314 - eBanking -INFO - password entered
+2020-03-05 19:16:14,279 - eBanking -INFO - customer creation section.....
+2020-03-05 19:16:18,776 - eBanking -INFO - clicked on add new customer submit button
+2020-03-05 19:34:45,276 - eBanking -INFO - URL is launched
+2020-03-05 19:34:45,734 - eBanking -INFO - username entered
+2020-03-05 19:34:45,915 - eBanking -INFO - password entered
+2020-03-05 19:34:56,346 - eBanking -INFO - login test passed
+2020-03-05 19:35:08,129 - eBanking -INFO - URL is launched
+2020-03-05 19:35:08,376 - eBanking -INFO - username entered
+2020-03-05 19:35:08,629 - eBanking -INFO - password entered
+2020-03-05 19:35:15,738 - eBanking -INFO - customer creation section.....
+2020-03-05 19:35:20,555 - eBanking -INFO - clicked on add new customer submit button
+2020-03-05 19:38:43,735 - eBanking -INFO - URL is launched
+2020-03-05 19:38:44,087 - eBanking -INFO - username entered
+2020-03-05 19:38:44,299 - eBanking -INFO - password entered
+2020-03-05 19:38:54,132 - eBanking -INFO - login test passed
+2020-03-05 19:39:10,194 - eBanking -INFO - URL is launched
+2020-03-05 19:39:10,481 - eBanking -INFO - username entered
+2020-03-05 19:39:10,693 - eBanking -INFO - password entered
+2020-03-05 19:39:17,939 - eBanking -INFO - customer creation section.....
+2020-03-05 19:39:21,579 - eBanking -INFO - clicked on add new customer submit button
+2020-03-05 19:42:10,952 - eBanking -INFO - URL is launched
+2020-03-05 19:42:11,222 - eBanking -INFO - username entered
+2020-03-05 19:42:11,484 - eBanking -INFO - password entered
+2020-03-05 19:42:21,495 - eBanking -INFO - login test passed
+2020-03-05 19:42:33,526 - eBanking -INFO - URL is launched
+2020-03-05 19:42:33,895 - eBanking -INFO - username entered
+2020-03-05 19:42:34,195 - eBanking -INFO - password entered
+2020-03-05 19:42:41,420 - eBanking -INFO - customer creation section.....
+2020-03-05 19:42:45,780 - eBanking -INFO - clicked on add new customer submit button
+2020-03-05 19:42:47,806 - eBanking -INFO - customer cretated successfully
+2020-03-05 19:57:48,649 - eBanking -INFO - URL is launched
+2020-03-05 19:57:48,921 - eBanking -INFO - username entered
+2020-03-05 19:57:49,149 - eBanking -INFO - password entered
+2020-03-05 19:57:59,374 - eBanking -INFO - login test passed
+2020-03-05 19:58:11,040 - eBanking -INFO - URL is launched
+2020-03-05 19:58:11,277 - eBanking -INFO - username entered
+2020-03-05 19:58:11,493 - eBanking -INFO - password entered
+2020-03-05 19:58:19,486 - eBanking -INFO - customer creation section.....
+2020-03-05 19:58:23,263 - eBanking -INFO - clicked on add new customer submit button
+2020-03-05 20:08:47,744 - eBanking -INFO - URL is launched
+2020-03-05 20:08:48,024 - eBanking -INFO - username entered
+2020-03-05 20:08:48,271 - eBanking -INFO - password entered
+2020-03-05 20:08:58,342 - eBanking -INFO - login test passed
+2020-03-05 20:09:09,478 - eBanking -INFO - URL is launched
+2020-03-05 20:09:09,688 - eBanking -INFO - username entered
+2020-03-05 20:09:09,881 - eBanking -INFO - password entered
+2020-03-05 20:09:17,039 - eBanking -INFO - customer creation section.....
+2020-03-05 20:09:20,103 - eBanking -INFO - clicked on add new customer submit button
+2020-03-05 20:11:14,078 - eBanking -INFO - URL is launched
+2020-03-05 20:11:14,357 - eBanking -INFO - username entered
+2020-03-05 20:11:14,580 - eBanking -INFO - password entered
+2020-03-05 20:11:25,527 - eBanking -INFO - login test passed
+2020-03-05 20:11:38,101 - eBanking -INFO - URL is launched
+2020-03-05 20:11:38,295 - eBanking -INFO - username entered
+2020-03-05 20:11:38,504 - eBanking -INFO - password entered
+2020-03-05 20:11:45,772 - eBanking -INFO - customer creation section.....
+2020-03-05 20:11:48,616 - eBanking -INFO - clicked on add new customer submit button
+2020-03-05 20:52:51,550 - eBanking -INFO - URL is launched
+2020-03-05 20:53:02,920 - eBanking -INFO - username entered
+2020-03-05 20:53:11,708 - eBanking -INFO - password entered
+2020-03-05 20:53:37,233 - eBanking -INFO - login test passed
+2020-03-05 20:53:54,163 - eBanking -INFO - URL is launched
+2020-03-05 20:54:04,933 - eBanking -INFO - username entered
+2020-03-05 20:54:13,751 - eBanking -INFO - password entered
+2020-03-05 20:54:41,111 - eBanking -INFO - customer creation section.....
+2020-03-05 20:54:46,036 - eBanking -INFO - clicked on add new customer submit button
+2020-03-05 20:54:48,057 - eBanking -INFO - customer cretated successfully
+2020-03-05 21:12:18,926 - eBanking -INFO - URL is launched
+2020-03-05 21:12:29,701 - eBanking -INFO - username entered
+2020-03-05 21:12:38,557 - eBanking -INFO - password entered
+2020-03-05 21:13:01,975 - eBanking -INFO - login test passed
+2020-03-05 21:13:17,977 - eBanking -INFO - URL is launched
+2020-03-05 21:13:29,476 - eBanking -INFO - username entered
+2020-03-05 21:13:36,973 - eBanking -INFO - password entered
+2020-03-05 21:14:04,898 - eBanking -INFO - customer creation section.....
