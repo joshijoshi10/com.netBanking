@@ -5,5 +5,6 @@ com\netBanking\utilities\ReadConfig.class
 com\netBanking\utilities\XLUtils.class
 com\netBanking\testCases\TC_AddNewCustomer_003.class
 com\netBanking\utilities\Reporting.class
+com\netBanking\testCases\CreateFile3.class
 com\netBanking\testCases\TC_LoginDDT_002.class
 com\netBanking\pageObjects\AddCustomerPage.class

@@ -1,0 +1,4 @@
+# Created at 2021-10-05T11:56:57.508
+Boot Manifest-JAR contains absolute paths in classpath 'D:\cucumber videos\onedrive1\Desktop\git\com.netBanking\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
